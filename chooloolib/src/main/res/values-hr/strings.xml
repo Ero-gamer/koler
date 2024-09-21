@@ -45,11 +45,11 @@
     <!--endregion-->
 
     <!--region call state-->
-    <string name="call_status_dialing">Pozivanje…</string>
-    <string name="call_status_holding">Poziv na čekanju</string>
-    <string name="call_status_incoming">Dolazni poziv</string>
-    <string name="call_status_disconnected">Poziv završen</string>
-    <string name="call_status_active">Poziv u tijeku</string>
+    <string name="call_state_dialing">Pozivanje…</string>
+    <string name="call_state_holding">Poziv na čekanju</string>
+    <string name="call_state_incoming">Dolazni poziv</string>
+    <string name="call_state_disconnected">Poziv završen</string>
+    <string name="call_state_active">Poziv u tijeku</string>
     <!--endregion-->
 
     <!--region pref key-->
@@ -72,10 +72,10 @@
     <!--endregion-->
 
     <!--region errors-->
-    <string name="error_no_results">Nema rezultata :/</string>
-    <string name="error_no_results_phones">Nema telefonskih brojeva :/</string>
-    <string name="error_no_results_contacts">Nema kontakata :/</string>
-    <string name="error_no_results_recents">Nema nedavnog :/</string>
+    <string name="no_results">Nema rezultata :/</string>
+    <string name="no_results_phones">Nema telefonskih brojeva :/</string>
+    <string name="no_results_contacts">Nema kontakata :/</string>
+    <string name="no_results_recents">Nema nedavnog :/</string>
 
     <string name="error_no_permissions_contacts">Treba mi dozvola za čitanje kontakata :)</string>
     <string name="error_no_permissions_recents">Treba mi dozvola za čitanje nedavnih poziva :)</string>
@@ -104,8 +104,8 @@
     <!--endregion-->
 
     <!--region content descriptions -->
-    <string name="content_description_answer_button">Tipka za prihvat poziva</string>
-    <string name="content_description_reject_button">Tipka za odbijanje poziva</string>
+    <string name="cd_accept_call">Tipka za prihvat poziva</string>
+    <string name="cd_hangup_call">Tipka za odbijanje poziva</string>
     <!--endregion-->
 
     <!--region notification-->

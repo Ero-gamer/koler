@@ -75,17 +75,17 @@
     <!--endregion-->
 
     <!--region call state-->
-    <string name="call_status_new">Nouvel appel</string>
-    <string name="call_status_dialing">Numérotation…</string>
-    <string name="call_status_holding">Appel en attente</string>
-    <string name="call_status_connecting">Liaison…</string>
-    <string name="call_status_incoming">Appel entrant</string>
-    <string name="call_status_active">Appel en cours</string>
-    <string name="call_status_disconnected">Appel terminé</string>
-    <string name="call_status_pulling_call">Transfert de l\'appel…</string>
-    <string name="call_status_unknown">Statut d\'appel inconnu</string>
-    <string name="call_status_disconnecting">Déconnexion de l\'appel…</string>
-    <string name="call_status_phone_account">Sélectionnez le compte téléphonique</string>
+    <string name="call_state_new">Nouvel appel</string>
+    <string name="call_state_dialing">Numérotation…</string>
+    <string name="call_state_holding">Appel en attente</string>
+    <string name="call_state_connecting">Liaison…</string>
+    <string name="call_state_incoming">Appel entrant</string>
+    <string name="call_state_active">Appel en cours</string>
+    <string name="call_state_disconnected">Appel terminé</string>
+    <string name="call_state_pulling_call">Transfert de l\'appel…</string>
+    <string name="call_state_unknown">Statut d\'appel inconnu</string>
+    <string name="call_state_disconnecting">Déconnexion de l\'appel…</string>
+    <string name="call_state_phone_account">Sélectionnez le compte téléphonique</string>
     <!--endregion-->
 
     <!--region pref key-->
@@ -119,10 +119,10 @@
     <!--endregion-->
 
     <!--region errors-->
-    <string name="error_no_results">Aucun résultat</string>
-    <string name="error_no_results_recents">Aucun élément récent trouvé</string>
-    <string name="error_no_results_contacts">Aucun contact trouvé</string>
-    <string name="error_no_results_phones">Aucun numéro de téléphone trouvé</string>
+    <string name="no_results">Aucun résultat</string>
+    <string name="no_results_recents">Aucun élément récent trouvé</string>
+    <string name="no_results_contacts">Aucun contact trouvé</string>
+    <string name="no_results_phones">Aucun numéro de téléphone trouvé</string>
     <string name="error_not_default_dialer_blocked">Définissez Koler comme composeur par défaut pour voir les numéros bloqués</string>
     <string name="error_not_default_dialer_call">Définissez Koler comme composeur par défaut pour passer des appels</string>
 
@@ -164,10 +164,10 @@
     <!--endregion-->
 
     <!--region content descriptions -->
-    <string name="content_description_menu_button">Bouton de menu</string>
-    <string name="content_description_answer_button">Bouton de réponse</string>
-    <string name="content_description_reject_button">Bouton de rejet</string>
-    <string name="content_description_call_actions_button">Actions d\'appel</string>
+    <string name="cd_show_menu">Bouton de menu</string>
+    <string name="cd_accept_call">Bouton de réponse</string>
+    <string name="cd_hangup_call">Bouton de rejet</string>
+    <string name="cd_call_actions_button">Actions d\'appel</string>
     <!--endregion-->
     
     <!--region notification-->
@@ -187,6 +187,6 @@
     <!--endregion-->
 
     <!--region content description-->
-    <string name="content_description_favorite_star">Étoile de Favoris</string>
-    <string name="content_description_empty_list_icon">Icône de liste vide</string>
+    <string name="cd_favorite_star">Étoile de Favoris</string>
+    <string name="cd_empty_list_icon">Icône de liste vide</string>
 </resources>

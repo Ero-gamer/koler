@@ -29,11 +29,11 @@
     <string name="call_action_speaker_off">Выкл. Динамик</string>
 
 
-    <string name="call_status_dialing">Набор…</string>
-    <string name="call_status_holding">Вызов на удержании</string>
-    <string name="call_status_incoming">Входящий звонок</string>
-    <string name="call_status_disconnected">Звонок окончен</string>
-    <string name="call_status_active">Звонок в процессе</string>
+    <string name="call_state_dialing">Набор…</string>
+    <string name="call_state_holding">Вызов на удержании</string>
+    <string name="call_state_incoming">Входящий звонок</string>
+    <string name="call_state_disconnected">Звонок окончен</string>
+    <string name="call_state_active">Звонок в процессе</string>
 
 
     <string name="pref_key_rate">оценивать</string>
@@ -47,7 +47,7 @@
     <string name="pref_title_report_bugs">Сообщить об ошибках</string>
 
 
-    <string name="error_no_results">Никаких результатов :/</string>
+    <string name="no_results">Никаких результатов :/</string>
 
 
     <string name="dialpad_0_letters"/>
@@ -63,8 +63,8 @@
     <string name="dialpad_pound_letters"/>
 
 
-    <string name="content_description_answer_button">Кнопка ответа</string>
-    <string name="content_description_reject_button">Кнопка отклонения</string>
+    <string name="cd_accept_call">Кнопка ответа</string>
+    <string name="cd_hangup_call">Кнопка отклонения</string>
 
 
     <string name="call_notification_channel_name">Уведомление о звонке</string>

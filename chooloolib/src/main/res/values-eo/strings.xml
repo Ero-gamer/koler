@@ -39,11 +39,11 @@
     <!--endregion-->
 
     <!--region call state-->
-    <string name="call_status_dialing">Telefonas…</string>
-    <string name="call_status_holding">Telefonado paŭzigita</string>
-    <string name="call_status_incoming">Venanta telefonado</string>
-    <string name="call_status_disconnected">Telefonado finis</string>
-    <string name="call_status_active">Telefonado farata</string>
+    <string name="call_state_dialing">Telefonas…</string>
+    <string name="call_state_holding">Telefonado paŭzigita</string>
+    <string name="call_state_incoming">Venanta telefonado</string>
+    <string name="call_state_disconnected">Telefonado finis</string>
+    <string name="call_state_active">Telefonado farata</string>
     <!--endregion-->
 
     <!--region pref key-->
@@ -66,10 +66,10 @@
     <!--endregion-->
 
     <!--region errors-->
-    <string name="error_no_results">Sen rezultoj :/</string>
-    <string name="error_no_results_phones">Neniu telefonaj numeroj :/</string>
-    <string name="error_no_results_contacts">Neniu kontaktoj :/</string>
-    <string name="error_no_results_recents">Neniu lastatempaj :/</string>
+    <string name="no_results">Sen rezultoj :/</string>
+    <string name="no_results_phones">Neniu telefonaj numeroj :/</string>
+    <string name="no_results_contacts">Neniu kontaktoj :/</string>
+    <string name="no_results_recents">Neniu lastatempaj :/</string>
 
     <string name="error_no_permissions_contacts">Mi bezonas permeson por legi kontaktojn :)</string>
     <string name="error_no_permissions_recents">Mi bezonas permeson por legi alvokan protokolon :)</string>
@@ -98,8 +98,8 @@
     <!--endregion-->
 
     <!--region content descriptions -->
-    <string name="content_description_answer_button">Responda butono</string>
-    <string name="content_description_reject_button">Malakcpeta butono</string>
+    <string name="cd_accept_call">Responda butono</string>
+    <string name="cd_hangup_call">Malakcpeta butono</string>
     <!--endregion-->
 
     <!--region notification-->
