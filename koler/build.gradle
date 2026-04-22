@@ -59,7 +59,7 @@ dependencies {
 
     testImplementation(
             "junit:junit:4.13.2",
-            "androidx.room:room-testing:2.2.6"
+            "androidx.room:room-testing:2.8.4"
     )
 
     androidTestImplementation(
