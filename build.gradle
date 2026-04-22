@@ -6,7 +6,7 @@ buildscript {
         hiltVersion = "2.44"
         kotlinVersion = "1.8.0"
         coreKtxVersion = "1.9.0"
-        appCompatVersion = "1.6.0"
+        appCompatVersion = "1.7.1"
     }
 
     repositories {
