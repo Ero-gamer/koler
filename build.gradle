@@ -3,7 +3,7 @@ buildscript {
     ext {
         sdkVersion = 33
         minSdkVersion = 25
-        hiltVersion = "2.44"
+        hiltVersion = "2.59.2"
         kotlinVersion = "1.8.0"
         coreKtxVersion = "1.9.0"
         appCompatVersion = "1.6.0"
