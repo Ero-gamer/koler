@@ -71,7 +71,7 @@ dependencies {
 
             "androidx.compose.ui:ui:1.3.3",
             "dev.sasikanth:colorsheet:1.0.1",
-            "com.squareup.picasso:picasso:2.5.2",
+            "com.squareup.picasso:picasso:2.71828",
             "io.reactivex.rxjava2:rxjava:2.2.21",
             "androidx.preference:preference:1.1.1",
             "io.github.l4digital:fastscroll:2.0.1",
