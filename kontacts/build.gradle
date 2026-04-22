@@ -79,7 +79,7 @@ dependencies {
             fileTree(include: ["*.jar"], dir: "libs"),
 
             // ktx
-            "androidx.fragment:fragment-ktx:1.5.5",
+            "androidx.fragment:fragment-ktx:1.8.9",
             "androidx.activity:activity-ktx:1.6.1",
             "androidx.preference:preference-ktx:1.2.1",
             "androidx.navigation:navigation-ui-ktx:2.9.8",
