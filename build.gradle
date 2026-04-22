@@ -5,7 +5,7 @@ buildscript {
         minSdkVersion = 25
         hiltVersion = "2.44"
         kotlinVersion = "1.8.0"
-        coreKtxVersion = "1.9.0"
+        coreKtxVersion = "1.18.0"
         appCompatVersion = "1.6.0"
     }
 
