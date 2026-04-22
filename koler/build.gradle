@@ -54,7 +54,7 @@ dependencies {
     )
 
     annotationProcessor(
-            "androidx.room:room-compiler:2.5.0"
+            "androidx.room:room-compiler:2.8.4"
     )
 
     testImplementation(
