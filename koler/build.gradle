@@ -106,7 +106,7 @@ dependencies {
             "com.github.abdularis:circularimageview:1.5",
             "androidx.lifecycle:lifecycle-extensions:2.2.0",
             "com.daimajia.androidanimations:library:2.4@aar",
-            "androidx.constraintlayout:constraintlayout:2.1.4",
+            "androidx.constraintlayout:constraintlayout:2.2.1",
             "com.pushtorefresh.storio3:content-resolver:3.0.0",
             "com.googlecode.libphonenumber:libphonenumber:8.12.18",
             "com.google.dagger:hilt-android:${rootProject.ext.hiltVersion}",
