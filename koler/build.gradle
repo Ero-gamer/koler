@@ -108,7 +108,7 @@ dependencies {
             "com.daimajia.androidanimations:library:2.4@aar",
             "androidx.constraintlayout:constraintlayout:2.1.4",
             "com.pushtorefresh.storio3:content-resolver:3.0.0",
-            "com.googlecode.libphonenumber:libphonenumber:8.12.18",
+            "com.googlecode.libphonenumber:libphonenumber:9.0.29",
             "com.google.dagger:hilt-android:${rootProject.ext.hiltVersion}",
             "androidx.appcompat:appcompat:${rootProject.ext.appCompatVersion}",
     )
