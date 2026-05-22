@@ -56,7 +56,7 @@ dependencies {
             "androidx.test:runner:1.3.0",
             "androidx.test.ext:junit:1.1.3",
             "androidx.compose.ui:ui-test-junit4:1.0.4",
-            "androidx.test.espresso:espresso-core:3.4.0"
+            "androidx.test.espresso:espresso-core:3.7.0"
     )
 
     implementation(
