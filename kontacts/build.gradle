@@ -71,7 +71,7 @@ dependencies {
             "org.mockito:mockito-android:2.24.0",
             "androidx.arch.core:core-testing:2.1.0",
             "androidx.compose.ui:ui-test-junit4:1.0.4",
-            "androidx.test.espresso:espresso-core:3.3.0"
+            "androidx.test.espresso:espresso-core:3.7.0"
     )
 
     implementation(
