@@ -43,7 +43,7 @@ android {
 
 dependencies {
     kapt(
-            "androidx.hilt:hilt-compiler:1.0.0-alpha01",
+            "androidx.hilt:hilt-compiler:1.4.0-beta01",
             "com.google.dagger:hilt-compiler:${rootProject.ext.hiltVersion}"
     )
 
